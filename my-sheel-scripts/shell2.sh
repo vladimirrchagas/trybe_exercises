@@ -1,5 +1,7 @@
 #!/bin/bash
+#shell-script-updates
 #Vou ter muito sucesso na programação!
+#"Eu sou Tryber e..."
 echo "Criando um arquivo"
 echo 'Meu segundo arquivo' > arquivo.txt;
 echo "Arquivo Criado"
