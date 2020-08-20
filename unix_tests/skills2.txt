@@ -1,0 +1,8 @@
+Bash
+Internet
+javascript
+mongodb
+node
+react
+sql
+Unix

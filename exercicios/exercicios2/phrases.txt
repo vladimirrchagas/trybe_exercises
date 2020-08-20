@@ -1,0 +1,4 @@
+Primeira Frase
+Segunda Frase
+Terceira Frase
+Quarta Frase
