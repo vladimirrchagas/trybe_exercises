@@ -2,7 +2,7 @@
 
 let arrayEx8 = [];
 
-for (i = 1; i <= 25; i += 1) {
+for (let i = 1; i <= 25; i += 1) {
     arrayEx8.push(i);
 }
 
