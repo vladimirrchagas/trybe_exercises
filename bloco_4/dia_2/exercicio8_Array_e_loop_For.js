@@ -1,4 +1,9 @@
-//Array utilizado para o exercício
-let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+//Exercício 8, criar um array do 1 ao 25 e imprimi-lo
 
-//Exercício 
+let arrayEx8 = [];
+
+for (i = 1; i <= 25; i += 1) {
+    arrayEx8.push(i);
+}
+
+console.log(arrayEx8);
