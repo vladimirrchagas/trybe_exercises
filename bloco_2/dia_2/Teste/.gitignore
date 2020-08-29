@@ -1,0 +1,8 @@
+# Para todos os arquivos e sub-pastas localizados na pasta
+testeignore/
+# Para arquivos .txt
+*.txt
+# Para código C
+*.so
+# Para todos os arquivos e sub-pastas localizados na pasta
+testeignore2/
