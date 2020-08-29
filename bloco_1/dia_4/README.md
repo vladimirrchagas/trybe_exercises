@@ -1,6 +1,6 @@
-#Exercícios Dia 4 - Bloco 1
+# Exercícios Dia 4 - Bloco 1
 
-##Parte I - Comandos de Input e Output
+## Parte I - Comandos de Input e Output
 
 1. Navegue até a pasta unix_tests;
 
@@ -24,7 +24,7 @@
 
 11. Ordene o arquivo bunch_of_things.txt;
 
-##Parte II - Permissões
+## Parte II - Permissões
 
 1. Navegue até a pasta unix_tests;
 
@@ -39,7 +39,7 @@
 5. Volte à permissão do arquivo bunch_of_things.txt para a listada inicialmente utilizando o comando chmod 644 bunch_of_things.txt. Leia este artigo para entender mais sobre o que é e como funciona essa numeração 644.
 "Resultado esperado: -rw-r--r-- 1 ana ana 1860 ago 13 11:39 bunch_of_things.txt"
 
-##Parte III - Processos & Jobs
+## Parte III - Processos & Jobs
 
 1. Liste todos os processos;
 
@@ -61,7 +61,7 @@
 
 9. Termine a execução de todos os processos sleep (mate os processos).
 
-##(Bônus) - Parte IV - O despertar do terminal
+## (Bônus) - Parte IV - O despertar do terminal
 
 1. Abra o terminal e execute o comando cmatrix. Quando estiver se sentindo como o Neo, aperte ctrl+c para voltar ao terminal;
 
