@@ -1,4 +1,4 @@
-#Exercícios Dia 3 - Bloco 1
+# Exercícios Dia 3 - Bloco 1
 
 ## Parte I - Criação de arquivos e diretórios
 
