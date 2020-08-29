@@ -1,4 +1,4 @@
-#Exercícios Dia_5 - Bloco 1
+# Exercícios Dia_5 - Bloco 1
 
 1. Escreva um Shell Script que imprima na tela a frase: "Shell Script é demais!";
 
@@ -14,7 +14,7 @@
 
 7. Escreva um Shell Script que receba um diretório como argumento (ou parâmetro). Se o argumento não for um diretório, mostre a mensagem: "O argumento _ não é um diretório!". Se o argumento for um diretório, conte quantos arquivos existem nele e mostre a seguinte mensagem: "O _ tem _ arquivos.", em que você deve substituir os "_" pelo diretório e a quantidade de arquivos nele, respectivamente;
 
-#Exercícios Bonus Dia_5 - Bloco 1
+# Exercícios Bonus Dia_5 - Bloco 1
 
 1. Escreva um Shell Script que imprima as palavras "shell", "script", "usando", "estrutura", "repetição", "for", "terminal" na tela, uma palavra por linha. Tente fazer isso usando o menor número de comandos possível;
 
