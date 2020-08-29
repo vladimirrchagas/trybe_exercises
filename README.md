@@ -1,5 +1,7 @@
 # Repositório de Exercícios realizados no Curso da Trybe
 
+⚠ Atenção: Dias sem link não possuem exercícios e consequentemente não possuem pastas no repo.
+
 ## [Bloco 1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_1)
 
 Dia 1_1 (10-08-2020):
@@ -46,7 +48,7 @@ Dia 2_3 (19-08-2020):
 [Dia 3_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_3/dia_4) (25-08-2020):
 - HTML Semântico
 
-Dia 3_5 (26-08-2020):
+[Dia 3_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_3/dia_5) (26-08-2020):
 - Projeto - HTML & CSS
 
 ## [Bloco 4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4)
