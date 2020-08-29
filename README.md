@@ -20,12 +20,12 @@ Dia 1_2 (11-08-2020):
 [Dia 1_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_1/dia_5) (14-08-2020):
 - Shell Script
 
-## Bloco 2
+## [Bloco 2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_2)
 
-Dia 2_1 (17-08-2020):
+[Dia 2_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_2/dia_1) (17-08-2020):
 - Git & GitHub - O que é e para que serve
 
-Dia 2_2 (18-08-2020):
+[Dia 2_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_2/dia_2) (18-08-2020):
 - Git & GitHub - Entendendo os comandos
 
 Dia 2_3 (19-08-2020):
