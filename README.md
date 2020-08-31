@@ -1,4 +1,6 @@
-# Repositório de Exercícios realizados no Curso da [Trybe](https://www.betrybe.com/)
+# Repositório de Exercícios Curso [Trybe](https://www.betrybe.com/)
+
+**Soluções dos exercícios realizadas por :metal: Vladimir Chagas :metal:**
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vladimirrchagas/trybe_exercises)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirrchagas/trybe_exercises) ![GitHub issues](https://img.shields.io/github/issues/vladimirrchagas/trybe_exercises) 
