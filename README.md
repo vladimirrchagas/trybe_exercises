@@ -1,4 +1,10 @@
-# Repositório de Exercícios realizados no Curso da Trybe
+# Repositório de Exercícios realizados no Curso da [Trybe](https://www.betrybe.com/)
+
+![Lines of code](https://github.com/vladimirrchagas/trybe_exercises/blob/image-data/badge.svg)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/56b762164ebffcdcef3f/maintainability)](https://codeclimate.com/github/vladimirrchagas/trybe_exercises/maintainability)![Code Climate issues](https://img.shields.io/codeclimate/issues/vladimirrchagas/trybe_exercises?color=9bcf00)![Code Climate technical debt](https://img.shields.io/codeclimate/tech-debt/vladimirrchagas/trybe_exercises)
+
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/vladimirrchagas/trybe_exercises.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/vladimirrchagas/trybe_exercises/context:javascript) [![Total alerts](https://img.shields.io/lgtm/alerts/g/vladimirrchagas/trybe_exercises.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/vladimirrchagas/trybe_exercises/alerts/)
 
 ⚠ Atenção: Dias sem link não possuem exercícios e consequentemente não possuem pastas no repo.
 
@@ -59,3 +65,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 4_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_2) (28-08-2020):
 - JavaScript - Array e loopr For
+
+[Dia 4_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_3) (31-08-2020):
+- JavaScript - Lógica de Programação e Algoritmos
