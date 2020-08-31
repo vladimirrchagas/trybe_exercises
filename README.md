@@ -1,6 +1,6 @@
 # Repositório de Exercícios realizados no Curso da [Trybe](https://www.betrybe.com/)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vladimirrchagas/trybe_exercises?style=plastic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vladimirrchagas/trybe_exercises)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirrchagas/trybe_exercises) ![GitHub issues](https://img.shields.io/github/issues/vladimirrchagas/trybe_exercises) 
 ![GitHub language count](https://img.shields.io/github/languages/count/vladimirrchagas/trybe_exercises)
 
