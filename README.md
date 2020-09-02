@@ -69,3 +69,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 4_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_3) (31-08-2020):
 - JavaScript - Lógica de Programação e Algoritmos
+
+[Dia 4_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_4) (01-09-2020):
+- JavaScript - Objetos e funções
