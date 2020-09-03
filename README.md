@@ -73,5 +73,5 @@ Dia 2_3 (19-08-2020):
 [Dia 4_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_4) (01-09-2020):
 - JavaScript - Objetos e funções
 
-[Dia 4_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_5) (02-09-2020):
+[Dia 4_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_5) (02-09-2020):
 - JavaScript - Projeto - Playground Functions
