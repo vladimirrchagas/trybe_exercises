@@ -197,17 +197,20 @@ function triangleCheck(lineA, lineB, lineC) {
 // Desafio 13
 function hydrate(stringText) {
   // seu código aqui
-  let result = stringText.match(/[1-9]/g);
+  let result = stringText.split(' ');
   let coposDeAgua = 0;
 
   for (let i = 0; i < result.length; i += 1) {
-    coposDeAgua += parseInt(result[i]);
+    if (Number.isInteger(parseInt(result[i]))){
+      coposDeAgua += parseInt(result[i]);
+    }
   }
 
   if (coposDeAgua > 1) {
     return `${coposDeAgua} copos de água`;
   }
   return `${coposDeAgua} copo de água`;
+
 }
 
 module.exports = {
