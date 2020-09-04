@@ -102,28 +102,14 @@ function encode(arrayWithVowels) {
 
 function decode(arrayWithNumbers) {
   // seu código aqui
-  let newStringDec = '';
-  for (let i = 0; i < arrayWithNumbers.length; i += 1) {
-    switch (arrayWithNumbers[i]) {
-      case '1':
-        newStringDec += 'a';
-        break;
-      case '2':
-        newStringDec += 'e';
-        break;
-      case '3':
-        newStringDec += 'i';
-        break;
-      case '4':
-        newStringDec += 'o';
-        break;
-      case '5':
-        newStringDec += 'u';
-        break;
-      default:
-        newStringDec += arrayWithNumbers[i];
-    }
-  }
+  let newStringDec = arrayWithNumbers;
+
+  newStringDec = newStringDec.replace(/['1']/g, 'a');
+  newStringDec = newStringDec.replace(/['2']/g, 'e');
+  newStringDec = newStringDec.replace(/['3']/g, 'i');
+  newStringDec = newStringDec.replace(/['4']/g, 'o');
+  newStringDec = newStringDec.replace(/['5']/g, 'u');
+
   return newStringDec;
 }
 
@@ -148,7 +134,6 @@ function techList(arrayTech, name) {
 // Desafio 11
 function generatePhoneNumber(arrayNumber) {
   // seu código aqui
-  let phoneNumber = '';
 
   if (arrayNumber.length !== 11) {
     return 'Array com tamanho incorreto.';
@@ -167,17 +152,12 @@ function generatePhoneNumber(arrayNumber) {
     if (count >= 3 || arrayNumber[i] < 0 || arrayNumber[i] > 9) {
       return 'não é possível gerar um número de telefone com esses valores';
     }
-
-    if (i === 0) {
-      phoneNumber += `(${arrayNumber[i]}`;
-    } else if (i === 1) {
-      phoneNumber += `${arrayNumber[i]}) `;
-    } else if (i === 7) {
-      phoneNumber += `-${arrayNumber[i]}`;
-    } else {
-      phoneNumber += arrayNumber[i];
-    }
   }
+
+  arrayNumber = arrayNumber.join('');
+
+  let phoneNumber = `(${arrayNumber.slice(0, 2)}) ${arrayNumber.slice(2, 7)}-${arrayNumber.slice(7, 11)}`;
+
   return phoneNumber;
 }
 
@@ -197,11 +177,13 @@ function triangleCheck(lineA, lineB, lineC) {
 // Desafio 13
 function hydrate(stringText) {
   // seu código aqui
-  let result = stringText.match(/[1-9]/g);
+  let result = stringText.split(' ');
   let coposDeAgua = 0;
 
   for (let i = 0; i < result.length; i += 1) {
-    coposDeAgua += parseInt(result[i]);
+    if (Number.isInteger(+result[i])) {
+      coposDeAgua += +result[i];
+    }
   }
 
   if (coposDeAgua > 1) {
