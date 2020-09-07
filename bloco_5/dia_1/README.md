@@ -3,7 +3,7 @@
 ## Exercício Conteúdo
 
 - Para começar a praticar, copie para um arquivo em sua máquina o exemplo abaixo.
-
+	```
 	<!DOCTYPE html>
 	<html>
 	  <body>
@@ -18,6 +18,7 @@
 	    </script>
 	  </body>
 	</html>
+	```
 	
 Agora você! Faça o seguinte:
 
@@ -44,7 +45,7 @@ Agora você! Faça o seguinte:
 	2. Crie um arquivo HTML dentro do diretório exercises/5_1 e copie o código a seguir.
 	3. Leia as instruções que estão dentro de um comentário na tag <script>.
 	4. Não se esqueça de fazer um commit a cada exercício!
-	
+	```
 	<!DOCTYPE html>
 	<html>
 	  <head>
@@ -101,4 +102,4 @@ Agora você! Faça o seguinte:
 	    </script>
 	  </body>
 	</html>
-
+```
