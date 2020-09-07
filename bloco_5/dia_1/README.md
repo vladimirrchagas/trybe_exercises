@@ -31,7 +31,7 @@ Agora você! Faça o seguinte:
 	8. Para praticar, substitua todas as funções que você usou no exercício anterior por querySelector e/ou querySelectorAll.
 	9. Além disso, coloque a cor dos retângulos desse link como na cor desta imagem abaixo usando apenas o JavaScript!
 
-	![quadrado](quadrados.png)
+	![quadrado](https://github.com/vladimirrchagas/trybe_exercises/blob/master/bloco_5/dia_1/quadrados.png)
 
 ## Exercícios
 
