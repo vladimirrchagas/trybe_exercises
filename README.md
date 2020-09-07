@@ -76,5 +76,7 @@ Dia 2_3 (19-08-2020):
 [Dia 4_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_5) (02-09-2020):
 - JavaScript - Projeto - Playground Functions
 
+## [Bloco 5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5)
+
 [Dia 5_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_1) (04-09-2020):
 - JavaScript - DOM e seletores
