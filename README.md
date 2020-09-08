@@ -80,3 +80,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 5_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_1) (04-09-2020):
 - JavaScript - DOM e seletores
+
+[Dia 5_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_2) (08-09-2020):
+- JavaScript - Trabalhando com elementos
