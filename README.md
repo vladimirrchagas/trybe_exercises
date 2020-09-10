@@ -85,3 +85,7 @@ Dia 2_3 (19-08-2020):
 - JavaScript - Trabalhando com elementos
 
 [Dia 5_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_3) (03-09-2020):
+- JavaScript - Eventos
+
+[Dia 5_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_4) (04-09-2020):
+- JavaScript - Web Storage
