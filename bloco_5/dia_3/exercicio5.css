@@ -1,3 +1,7 @@
 img {
-  width: 200px;
+  width: 150px;
+}
+
+.esquerda {
+  transform: scaleX(-1);
 }
