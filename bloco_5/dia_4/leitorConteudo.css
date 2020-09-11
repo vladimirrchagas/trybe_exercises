@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.mussum-paragraphs {
+  display: block;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.stylingsite {
+  width: 100%;
+  height: 220px;
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.styleitems {
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 30px;
+}
+
+select {
+  width: 100px;
+}
