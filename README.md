@@ -98,5 +98,5 @@ Dia 2_3 (19-08-2020):
 
 [Dia 5_7](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7) (15-09-2020):
 - [Projeto - Lista de Tarefas](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/project-todo-list)
-- [(Bônus) Projeto - Adivinhe a Cor](projetc-color-guess)
-- [(Bônus) Projeto - Carta Misteriosa](project-mistery-letter)
+- [(Bônus) Projeto - Adivinhe a Cor](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/projetc-color-guess)
+- [(Bônus) Projeto - Carta Misteriosa](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/project-mistery-letter)
