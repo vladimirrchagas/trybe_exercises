@@ -84,8 +84,19 @@ Dia 2_3 (19-08-2020):
 [Dia 5_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_2) (08-09-2020):
 - JavaScript - Trabalhando com elementos
 
-[Dia 5_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_3) (03-09-2020):
+[Dia 5_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_3) (09-09-2020):
 - JavaScript - Eventos
 
-[Dia 5_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_4) (04-09-2020):
+[Dia 5_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_4) (10-09-2020):
 - JavaScript - Web Storage
+
+[Dia 5_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_5) (11-09-2020):
+- Projeto - Meme Generator
+
+[Dia 5_6](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_6) (14-09-2020):
+- Projeto - Arte com Pixels
+
+[Dia 5_7](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7) (15-09-2020):
+- [Projeto - Lista de Tarefas](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/project-todo-list)
+- [(Bônus) Projeto - Adivinhe a Cor](projetc-color-guess)
+- [(Bônus) Projeto - Carta Misteriosa](project-mistery-letter)
