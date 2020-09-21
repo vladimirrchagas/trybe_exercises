@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Currículo The Best of World</h1>
+    </header>
+    
+    <form action="vladimirrchagas.com" method="post" id="form1">
+      <fieldset>
+        <div>
+          <label for="">Nome</label>
+          <input id="nome" type="text" maxlength="40" required>
+          <span>Digite seu nome!</span>
+        </div>
+        <div>
+          <label for="">E-Mail</label>
+          <input id="email" type="text" maxlength="50" required>
+          <span>Digite seu email!</span>
+        </div>
+        <div>
+          <label for="">CPF</label>
+          <input id="cpf" type="text" maxlength="11" required>
+          <span>Digite seu CPF!</span>
+        </div>
+        <div>
+          <label for="">Endereço</label>
+          <input id="endereco" type="text" maxlength="200" required>
+          <span>Digite seu endereço!</span>
+        </div>
+        <div>
+          <label for="">Cidade</label>
+          <input id="cidade" type="text" maxlength="28" required>
+          <span>Digite sua cidade!</span>
+        </div>
+        <div>
+          <label for="">Estado</label>
+          <select name="estado" id="estado" required></select>
+          <span>Digite seu estado!</span>
+        </div>
+        <div>
+          <label for="">Tipo</label>
+          <label for="casa1"><input type="radio" name="casa" id="casa1" required>Casa</label>
+          <label for="casa2" id="tipo"><input type="radio" name="casa" id="casa2" required>Apartamento</label>
+          <span>Seleciona uma das opções!</span>      
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <div>
+          <label for="">Resumo do Currículo</label>
+          <textarea name="resumocv" id="resumocv" cols="30" rows="10" maxlength="1000" required></textarea>
+          <span>Digite o resumo de seu currículo!</span>
+        </div>
+        <div>
+          <label for="">Cargo</label>
+          <input id="cargo" type="text" maxlength="40" required>
+          <span>Digite seu cargo!</span>
+        </div>
+        <div>
+          <label for="">Descrição do Cargo</label>
+          <input id="desc-cargo" type="text" maxlength="500" required>
+          <span>Digite sua descrição de cargo!</span>
+        </div>
+        <div>
+          <label for="">Data de Início</label>
+          <input type="text" id="data" required maxlength="10" placeholder="dd/mm/aaaa">
+          <span id="data-msg"></span>
+        </div>
+      </fieldset>
+    </form>
+    <section class="buttons">
+      <button id="finaliza-form">Finalizar Formulário</button>
+      <button id="limpa-form">Limpar Formulário</button>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>

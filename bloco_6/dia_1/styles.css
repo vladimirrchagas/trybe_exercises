@@ -1,0 +1,58 @@
+.buttons {
+  text-align: center;
+}
+
+.alert {
+  background-color: white;
+  border: 1px solid orange;
+  border-radius: 30px;
+  display: unset;
+  margin-left: -80px;
+  padding: 5px;
+  position: absolute;
+  text-align: center;
+  width: auto;
+  z-index: 1;
+}
+
+body {
+  background-color: rgb(230, 223, 223);
+}
+
+button {
+  width: 250px;
+}
+
+div {
+  display: block;
+  margin-bottom: 10px;
+  text-align: right;
+  width: 800px;
+}
+
+fieldset {
+  background-color: rgb(194, 214, 233);
+  border: 1px solid #c2d6e9;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+  background-color: white;
+  border: 1px solid rgb(238, 236, 236);
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
+
+label {
+  vertical-align: top;
+}
+
+span {
+  display: none;
+}
