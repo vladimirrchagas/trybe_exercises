@@ -100,3 +100,11 @@ Dia 2_3 (19-08-2020):
 - [Projeto - Lista de Tarefas](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/project-todo-list)
 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/projetc-color-guess)
 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/project-mistery-letter)
+
+## [Bloco 6](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6)
+
+[Dia 6_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_1) (17-09-2020):
+- HTML & CSS - Forms
+
+[Dia 6_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_2) (18-09-2020):
+- Bibliotecas JavaScript e Frameworks CSS
