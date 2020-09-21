@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/DatePickerX.min.css">
+  <link rel="stylesheet" href="css/justValidateTooltip.min.css">
+</head>
+
+<body>
+  <header>
+    <h1>Currículo The Best of World</h1>
+  </header>
+
+  <form action="#" method="post" id="form1" class="js-form">
+
+    <div class="form-group">
+      <div class="row">
+        <div class="col">
+          <label for="name">Nome</label>
+          <div class="just-validate-tooltip-container">
+            <input class="form__input form-control" name="name" id="name" data-validate-field="name" type="text" maxlength="40" required>
+          </div>
+        </div>
+        <div class="col">
+          <label for="email">E-Mail</label>
+          <div class="just-validate-tooltip-container">
+            <input class="form__input form-control" name="email" id="email" data-validate-field="email" type="text" maxlength="50" required>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="cpf">CPF</label>
+      <div class="just-validate-tooltip-container">
+        <input class="form__input form-control" id="cpf" data-validate-field="cpf" type="text" maxlength="11" required>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="endereco">Endereço</label>
+      <div class="just-validate-tooltip-container">
+        <input class="form__input form-control" id="endereco" data-validate-field="endereco" type="text" maxlength="200" required>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="cidade">Cidade</label>
+      <div class="just-validate-tooltip-container">
+        <input class="form__input form-control" id="cidade" data-validate-field="cidade" type="text" maxlength="28" required>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="estado">Estado</label>
+      <div class="just-validate-tooltip-container">
+        <select class="form__input form-control" data-validate-field="name" name="estado" id="estado" required></select>
+      </div>
+    </div>
+
+    <label class="form-check-label" for="">Tipo</label>
+    <div class="form-check">
+      <div class="just-validate-tooltip-container">
+        <input class="form-check-input" data-validate-field="radio" type="radio" name="casa" id="casa1" required>
+      </div>
+      <label class="form-check-label" for="casa1">
+        Casa
+      </label>
+    </div>
+
+    <div class="form-group">
+      <div class="form-check">
+        <div class="just-validate-tooltip-container">
+          <input class="form__radio form-check-input" data-validate-field="radio" type="radio" name="casa" id="casa2" required>
+        </div>
+        <label class="form__radio form-check-label" for="casa2" id="tipo">
+          Apartamento
+        </label>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="resumocv">Resumo do Currículo</label>
+      <div class="just-validate-tooltip-container">
+        <textarea class="form__textarea form-control" name="resumocv" data-validate-field="resumocv" id="resumocv" cols="30" rows="10" maxlength="1000" required></textarea>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="cargo">Cargo</label>
+      <div class="just-validate-tooltip-container">
+        <input class="form__input form-control" id="cargo" type="text" data-validate-field="cargo" maxlength="40" required>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="desc-cargo">Descrição do Cargo</label>
+      <div class="just-validate-tooltip-container">
+        <input class="form__input form-control" id="desc-cargo" data-validate-field="desc-cargo" type="text" maxlength="500" required>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="data">Data de Início</label>
+      <div class="just-validate-tooltip-container">
+        <input class="form-control" type="text" id="data" required maxlength="10" placeholder="dd/mm/aaaa">
+      </div>
+    </div>
+
+    <section>
+      <button id="finaliza-form" class="form__btn btn btn-outline-success">Finalizar Formulário</button>
+      <button id="limpa-form" class="btn btn-outline-danger">Limpar Formulário</button>
+    </section>
+    
+  </form>
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/DatePickerX.min.js"></script>
+  <script src="js/script.js"></script>
+  <script src="js/just-validate.min.js"></script>
+
+</body>
+
+</html>
