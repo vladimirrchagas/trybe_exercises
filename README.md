@@ -108,3 +108,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 6_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_2) (18-09-2020):
 - Bibliotecas JavaScript e Frameworks CSS
+
+[Dia 6_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_3) (18-09-2020):
+- CSS Flexbox - Parte 1
