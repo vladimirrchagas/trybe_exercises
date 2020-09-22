@@ -1,44 +1,8 @@
-/* - 1 -
-#pond {
-  display: flex;
-justify-content: flex-end;
-}
-*/
-
-/* - 2 -
-#pond {
-  display: flex;
-justify-content: center;
-}
-*/
-
 /* - 3 - */
 #pond {
   display: flex;
   justify-content: space-around;
 }
-
-/* - 4 -
-#pond {
-  display: flex;
-justify-content: space-between;
-}
-*/
-
-/* - 5 -
-#pond {
-  display: flex;
-align-items: flex-end;
-}
-*/
-
-/* - 6 -
-#pond {
-  display: flex;
-justify-content: center;
-align-items: center;
-}
-*/
 
 /* - 7 -
 #pond {
