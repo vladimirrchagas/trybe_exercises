@@ -50,12 +50,12 @@ nav ul li {
 /* Second customized CSS setting for Ipad dimensions 768 x 1024 */
 
 @media screen and (min-width: 768px) {
-  .aside-two li, .charpters, nav ul{
+  .aside-two li, .charpters {
     font-size: 20px;
   }
 
   .aside-one h2, .aside-two h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
 
   .aside-main {
@@ -68,7 +68,7 @@ nav ul li {
   }
 
   .main-content p {
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .main-content h1 {
@@ -79,6 +79,8 @@ nav ul li {
 
   body {
     background-color: rgb(236, 247, 189);
+    max-width: 90%;
+    margin: auto;
   }
 
   header p {
@@ -89,6 +91,42 @@ nav ul li {
     font-size: 24px;
   }
 
+  nav ul li {
+    font-size: 30px;
+    margin-left: 20px;
+  }
+
 }
 
-/* Third customized CSS setting for Ipad dimensions 768 x 1024 */
+/* Third customized CSS setting for Desktop dimensions 1440 x 900 */
+
+@media screen and (min-width: 1440px) {
+  .aside-two li, .charpters {
+    font-size: 30px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: 45px;
+    margin-top: 20px;
+  }
+
+  .main-content h1 {
+    font-size: 50px;
+    margin-top: 140px;
+    text-align: center;
+  }
+  
+  .main-content p {
+    font-size: 30px;
+  }
+
+  body {
+    background-color: rgb(185, 233, 221);
+    max-width: 90%;
+    margin: auto;
+  }
+
+  nav ul li {
+    margin-left: 30px;
+  }
+}
