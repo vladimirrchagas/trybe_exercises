@@ -1,3 +1,5 @@
+/* First customized CSS setting for Iphone 6/7/8 dimensions 375 x 667 */
+
 html {
   box-sizing: border-box;
 }
@@ -36,6 +38,7 @@ footer {
 
 nav ul {
   display: flex;
+  justify-content: center;
   list-style: none;
   padding: 0;
 }
@@ -44,9 +47,24 @@ nav ul li {
   margin-left: 10px;
 }
 
+/* Second customized CSS setting for Ipad dimensions 768 x 1024 */
+
 @media screen and (min-width: 768px) {
   .aside-two li, .charpters, nav ul{
-    font-size: 25px;
+    font-size: 20px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: 40px;
+  }
+
+  .aside-main {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .aside-main aside h2 {
+    text-align: center;
   }
 
   .main-content p {
@@ -64,7 +82,7 @@ nav ul li {
   }
 
   header p {
-    font-size: 46px;
+    font-size: 50px;
   }
 
   footer {
@@ -72,3 +90,5 @@ nav ul li {
   }
 
 }
+
+/* Third customized CSS setting for Ipad dimensions 768 x 1024 */
