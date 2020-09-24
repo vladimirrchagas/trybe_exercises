@@ -98,6 +98,8 @@
   };
 }
 
+/* CSS customized to screen 240 x 320 */
+
 @media screen and (min-width: 240px) and (max-width: 320px) {
 
   #aside {
@@ -151,7 +153,6 @@
   }
 
   #navigation ul{
-/*     align-items: stretch; */
     display: flex;
     flex-direction: column;
     padding: 0;
@@ -172,5 +173,80 @@
   img {
     width: 90%;
   }
-  
+}
+/* CSS customized to screen 360 x 640 */
+
+@media screen and (min-width: 360px) and (max-width: 640px) {
+
+  #aside {
+    display: none;
+  }
+
+  #content {
+    margin: 0;
+    float: none;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #content h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  #content p {
+    text-align: justify;
+    font-size: 18px;
+    margin: 10px;
+  }
+
+  #footer {
+    text-align: center;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    font-size: 16px;
+  }
+
+  #header {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  #header h1 {
+    font-size: 30px;
+  }
+
+  #navigation {
+    width: 100%;
+  }
+
+  #navigation ul{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin-top: 74px;
+    align-items: center;
+  }
+
+  #navigation li a {
+    border: none;
+    font-size: 18px;
+  }
+
+  body {
+    padding: 0;
+    margin: 0;
+  }
+
+  img {
+    width: 90%;
+  }
 }
