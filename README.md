@@ -117,3 +117,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 6_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_5) (23-09-2020):
 - CSS Responsivo - Mobile First
+
+[Dia 6_6](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_6) (24-09-2020):
+- Projeto - Página inicial do Facebook
