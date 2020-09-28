@@ -114,3 +114,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 6_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_4) (22-09-2020):
 - CSS Flexbox - Parte 2
+
+[Dia 6_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_5) (23-09-2020):
+- CSS Responsivo - Mobile First

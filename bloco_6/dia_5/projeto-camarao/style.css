@@ -1,0 +1,43 @@
+@media screen and (min-width: 375px) and (max-width: 667px) {
+  p {
+    text-align: justify;
+  }
+  
+  .references {
+    font-size: 14px;
+    text-align: left;
+  }
+
+  img {
+    width: 100%;
+  };
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  p {
+    font-size: 25px;
+    text-align: justify;
+  }
+  
+  .references {
+    font-size: 16px;
+    text-align: left;
+  }
+
+  img {
+    width: 100%;
+  };
+}
+
+
+@media print {
+  img {
+    width: 60%;
+  }
+
+  .image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+}

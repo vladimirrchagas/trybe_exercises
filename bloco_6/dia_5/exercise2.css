@@ -1,0 +1,132 @@
+/* First customized CSS setting for Iphone 6/7/8 dimensions 375 x 667 */
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.container {
+  margin: 15px;
+  text-align: justify;
+}
+
+.main-content p {
+  font-size: 18px;
+}
+
+.main-content h1 {
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+body {
+  background-color: lemonchiffon;
+}
+
+header p {
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+footer {
+  font-size: 12px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  margin-left: 10px;
+}
+
+/* Second customized CSS setting for Ipad dimensions 768 x 1024 */
+
+@media screen and (min-width: 768px) {
+  .aside-two li, .charpters {
+    font-size: 20px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: 35px;
+  }
+
+  .aside-main {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .aside-main aside h2 {
+    text-align: center;
+  }
+
+  .main-content p {
+    font-size: 20px;
+  }
+
+  .main-content h1 {
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  body {
+    background-color: rgb(236, 247, 189);
+    max-width: 90%;
+    margin: auto;
+  }
+
+  header p {
+    font-size: 50px;
+  }
+
+  footer {
+    font-size: 24px;
+  }
+
+  nav ul li {
+    font-size: 30px;
+    margin-left: 20px;
+  }
+
+}
+
+/* Third customized CSS setting for Desktop dimensions 1440 x 900 */
+
+@media screen and (min-width: 1440px) {
+  .aside-two li, .charpters {
+    font-size: 30px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: 45px;
+    margin-top: 20px;
+  }
+
+  .main-content h1 {
+    font-size: 50px;
+    margin-top: 140px;
+    text-align: center;
+  }
+  
+  .main-content p {
+    font-size: 30px;
+  }
+
+  body {
+    background-color: rgb(185, 233, 221);
+    max-width: 90%;
+    margin: auto;
+  }
+
+  nav ul li {
+    margin-left: 30px;
+  }
+}
