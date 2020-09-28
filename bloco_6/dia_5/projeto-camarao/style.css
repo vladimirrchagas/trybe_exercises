@@ -28,3 +28,16 @@
     width: 100%;
   };
 }
+
+
+@media print {
+  img {
+    width: 60%;
+  }
+
+  .image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+}
