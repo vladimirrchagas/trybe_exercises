@@ -12,66 +12,66 @@ Use a sua criatividade para incrementar ainda mais a solução. 🤓
 
 Para os próximos exercícios, você deve abrir um novo arquivo HTML no VSCode, copiar o código abaixo para dentro do arquivo, e então seguir as instruções da página.
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Exercício - Parte 2</title>
-    <!-- Seu código JavaScript pode vir aqui -->
-    <!-- Seu código JavaScript pode vir aqui -->
-    <!-- Seu código JavaScript pode vir aqui -->
-  </head>
-  <body>
-    <div>
-      <h1>Exercício - Parte 2</h1>
-      <hr />
-      <h2>Tarefa 1</h2>
-      <p>
-        Adicione um botão HTML na área indicada abaixo. Usando um
-        <strong>EventListener</strong> adicione um evento ao botão, onde ao ser
-        clicado um alerta contendo a mensagem "Você clicou no botão" deverá ser
-        exibido.
-      </p>
-      <div class="tarefa1">Adicione o botão aqui!</div>
-      <hr />
-      <h2>Tarefa 2</h2>
-      <p>
-        Para realizar essa tarefa utilize à tag &lt;script&gt; abaixo. Você deve
-        declarar duas variáveis, uma chamada <strong>productPrice</strong> com o
-        valor <strong>59,99</strong> e a outra chamada
-        <strong>discount</strong> com o valor <strong>0,30</strong>. Na
-        sequência adicione um botão um botão HTML abaixo da tag &lt;script&gt; e
-        utilizando um <strong>EventListener</strong> adicione um evento a esse
-        botão, onde ao ser clicado deve-se multiplicar
-        <strong>productPrice</strong> por <strong>discount</strong> e então
-        exibir um alerta contendo a mensagem "Desconto de R$(resultado)", sendo
-        <strong>discount</strong> o resultado da multiplicação.
-      </p>
-      <script language="javascript" type="text/javascript">
-        //JavaScript para a tarefa 2
-        //JavaScript para a tarefa 2
-        //JavaScript para a tarefa 2
-      </script>
-      <hr />
-      <h2>Bônus</h2>
-      <p>
-        Para essa última tarefa você irá precisar de duas imagens do mesmo
-        tamanho. Adicione uma imagem a está página usando uma tag HTML &lt;img
-        /&gt;. Usando os manipuladores de eventos
-        <strong>onMouseOver()</strong> e <strong>onMouseLeave()</strong>, faça com
-        que a imagem mude para a segunda imagem quando o ponteiro do mouse
-        passar sobre ela e, em seguida, voltar para a primeira imagem quando o
-        ponteiro do mouse for movido para fora da imagem.
-      </p>
-      <p>
-        Além disso, sempre que um dos eventos for realizado deve-se logar no
-        console qual dos eventos acabou de ocorrer.
-      </p>
-      <!-- Adicione a tag <img /> aqui -->
-    </div>
-  </body>
-</html>
+	<!DOCTYPE html>
+	<html lang="en">
+	  <head>
+	    <meta charset="UTF-8" />
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	    <title>Exercício - Parte 2</title>
+	    <!-- Seu código JavaScript pode vir aqui -->
+	    <!-- Seu código JavaScript pode vir aqui -->
+	    <!-- Seu código JavaScript pode vir aqui -->
+	  </head>
+	  <body>
+	    <div>
+	      <h1>Exercício - Parte 2</h1>
+	      <hr />
+	      <h2>Tarefa 1</h2>
+	      <p>
+		Adicione um botão HTML na área indicada abaixo. Usando um
+		<strong>EventListener</strong> adicione um evento ao botão, onde ao ser
+		clicado um alerta contendo a mensagem "Você clicou no botão" deverá ser
+		exibido.
+	      </p>
+	      <div class="tarefa1">Adicione o botão aqui!</div>
+	      <hr />
+	      <h2>Tarefa 2</h2>
+	      <p>
+		Para realizar essa tarefa utilize à tag &lt;script&gt; abaixo. Você deve
+		declarar duas variáveis, uma chamada <strong>productPrice</strong> com o
+		valor <strong>59,99</strong> e a outra chamada
+		<strong>discount</strong> com o valor <strong>0,30</strong>. Na
+		sequência adicione um botão um botão HTML abaixo da tag &lt;script&gt; e
+		utilizando um <strong>EventListener</strong> adicione um evento a esse
+		botão, onde ao ser clicado deve-se multiplicar
+		<strong>productPrice</strong> por <strong>discount</strong> e então
+		exibir um alerta contendo a mensagem "Desconto de R$(resultado)", sendo
+		<strong>discount</strong> o resultado da multiplicação.
+	      </p>
+	      <script language="javascript" type="text/javascript">
+		//JavaScript para a tarefa 2
+		//JavaScript para a tarefa 2
+		//JavaScript para a tarefa 2
+	      </script>
+	      <hr />
+	      <h2>Bônus</h2>
+	      <p>
+		Para essa última tarefa você irá precisar de duas imagens do mesmo
+		tamanho. Adicione uma imagem a está página usando uma tag HTML &lt;img
+		/&gt;. Usando os manipuladores de eventos
+		<strong>onMouseOver()</strong> e <strong>onMouseLeave()</strong>, faça com
+		que a imagem mude para a segunda imagem quando o ponteiro do mouse
+		passar sobre ela e, em seguida, voltar para a primeira imagem quando o
+		ponteiro do mouse for movido para fora da imagem.
+	      </p>
+	      <p>
+		Além disso, sempre que um dos eventos for realizado deve-se logar no
+		console qual dos eventos acabou de ocorrer.
+	      </p>
+	      <!-- Adicione a tag <img /> aqui -->
+	    </div>
+	  </body>
+	</html>
 
 ## Parte III
 
