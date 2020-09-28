@@ -4,18 +4,18 @@
 
 Utilizando o HTML abaixo, realizar os exercícios de 1-13:
 
-  <div id="paiDoPai">
-    <div id="pai">
-      <div id="primeiroFilho"></div>
-      <div id="elementoOndeVoceEsta">
-        <div id="primeiroFilhoDoFilho"></div>
-        <div id="segundoEUltimoFilhoDoFilho"></div>
+    <div id="paiDoPai">
+      <div id="pai">
+        <div id="primeiroFilho"></div>
+        <div id="elementoOndeVoceEsta">
+          <div id="primeiroFilhoDoFilho"></div>
+          <div id="segundoEUltimoFilhoDoFilho"></div>
+        </div>
+        Atenção!
+        <div id="terceiroFilho"></div>
+        <div id="quartoEUltimoFilho"></div>
       </div>
-      Atenção!
-      <div id="terceiroFilho"></div>
-      <div id="quartoEUltimoFilho"></div>
     </div>
-  </div>
 
 1. Acesse o elemento elementoOndeVoceEsta.
 2. Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
