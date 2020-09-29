@@ -120,3 +120,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 6_6](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_6) (24-09-2020):
 - Projeto - Página inicial do Facebook
+
+[Dia 7_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_1) (25-09-2020):
+- JavaScript ES6 - let, const, arrow functions e template literals
