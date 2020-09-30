@@ -1,4 +1,5 @@
 const assert = require('assert');
+const { type } = require('os');
 
 function sum(a, b) {
   if (typeof a !== 'number' || typeof b !== 'number') {
@@ -10,6 +11,8 @@ function sum(a, b) {
 
 // implemente seus testes aqui
 
+assert.strictEqual(typeof sum, 'function');
+
 // 1. Teste se o retorno de sum(4, 5) é 9
 
 assert.strictEqual(sum(4, 5), 9);
@@ -20,12 +23,17 @@ assert.strictEqual(sum(0, 0), 0);
 
 // 3. Teste se a função sum lança um erro quando os parametros são 4 e "5"(string 5)
 
-//assert.strictEqual(sum(4, "5"),9);
+assert.throws(() => {sum(4, '5'),9});
 
 // 4. Teste se a mensagem de erro é "parameters must be numbers" quando realizar a chamada sum(4, "5")
 
+// Utilizando try catch
 try {
-  assert.strictEqual(sum(4, "5"),9);
+  assert.strictEqual(sum(4, '5'),9);
 } catch (e) {
   assert.strictEqual(e.message, 'parameters must be numbers');
 }
+
+// utilizando assert.throws()
+
+assert.throws(() => {sum(4, '5');}, /^Error: parameters must be numbers$/);
