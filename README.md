@@ -126,5 +126,8 @@ Dia 2_3 (19-08-2020):
 [Dia 7_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_1) (25-09-2020):
 - JavaScript ES6 - let, const, arrow functions e template literals
 
-[Dia 7_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_1) (28-09-2020):
+[Dia 7_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_2) (28-09-2020):
 - JavaScript ES6 - Objects
+
+[Dia 7_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_3) (29-09-2020):
+- Testes unitários em JavaScript
