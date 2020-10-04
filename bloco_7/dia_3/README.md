@@ -268,14 +268,14 @@ Como uma pessoa que compra em máquinas automáticas, eu gostaria de selecionar 
 
 As moedas serão representadas pelos valores 200, 100, 50, 20, 10, 5, 2 e 1. Abaixo, existe uma lista de correspondência com os valores em reais (R$)
 
-- 200 (R$2)
-- 100 (R$1)
-- 50 (R$0,50)
-- 20 (R$0,20)
-- 10 (R$0,10)
-- 5 (R$0,05)
-- 2 (R$0,02)
-- 1 (R$0,01)
+	- 200 (R$2)
+	- 100 (R$1)
+	- 50 (R$0,50)
+	- 20 (R$0,20)
+	- 10 (R$0,10)
+	- 5 (R$0,05)
+	- 2 (R$0,02)
+	- 1 (R$0,01)
 
 A quantidade de cada moeda é infinita, imagine que isso é uma simplificação do problema.
 	
