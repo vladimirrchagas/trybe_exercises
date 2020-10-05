@@ -131,3 +131,11 @@ Dia 2_3 (19-08-2020):
 
 [Dia 7_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_3) (29-09-2020):
 - Testes unitários em JavaScript
+
+[Dia 7_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_4) (30-09-2020):
+- Projeto - JavaScript Testes Unitários
+
+## [Bloco 8](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8)
+
+[Dia 8_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_1) (05-10-2020):
+- JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
