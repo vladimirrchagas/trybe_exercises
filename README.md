@@ -139,3 +139,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 8_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_1) (05-10-2020):
 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+
+[Dia 8_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_2) (06-10-2020):
+- JavaScript ES6 - Higher Order Functions - map e filter
