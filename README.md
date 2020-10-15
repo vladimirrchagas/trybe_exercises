@@ -148,3 +148,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 8_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_4) (08-10-2020):
 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+
+[Dia 8_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_5) (09-10-2020):
+- Projeto - Zoo Function
