@@ -151,3 +151,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 8_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_5) (09-10-2020):
 - Projeto - Zoo Function
+
+[Dia 9_1] (https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_1) (21-10-2020):
+- JavaScript Assíncrono e Callbacks
