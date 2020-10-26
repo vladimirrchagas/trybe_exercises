@@ -154,3 +154,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 9_1] (https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_1) (21-10-2020):
 - JavaScript Assíncrono e Callbacks
+
+[Dia 9_2] (https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_2) (22-10-2020):
+- JavaScript Promises
