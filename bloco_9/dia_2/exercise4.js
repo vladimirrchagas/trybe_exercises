@@ -5,11 +5,13 @@ const promise = () => {
 
     const result = myArray.reduce((acc, firstElement) => acc + firstElement);
     
-    (result > 8000) ? resolve() : reject ();
+    (result > 8000) ? resolve(result) : reject ();
 
   });
 }
 
 promise()
-  .then(() => console.log('OK DEMAIS DA CONTA SÔ'))
-  .catch(() => console.log('NOT OK'));
+  .then((resolve) => 
+    console.log([2, 3, 5, 10].map(number => Math.round(resolve / number))
+    ))
+  .catch(() => console.log("É mais de oito mil! Essa promise deve estar quebrada!"));
