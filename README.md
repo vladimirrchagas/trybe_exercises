@@ -159,3 +159,7 @@ Dia 2_3 (19-08-2020):
 
 [Dia 9_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_2) (22-10-2020):
 - JavaScript Promises
+
+[Dia 9_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_3) (23-10-2020):
+- [Projeto - Casa do Cambio](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_3/casa-do-cambio)
+- [Projeto - Shopping Cart](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_3/shopping-cart)
