@@ -7,8 +7,9 @@
 //   vowels('Why do you ask?') --> 4
 //   vowels('Why?') --> 0
 
-function vowels(str) {
-
+const vowels = (str) => {
+  const newStr = str.replace(/[aeiou]/gi, '');
+  return str.length - newStr.length;
 }
 
 module.exports = vowels;
