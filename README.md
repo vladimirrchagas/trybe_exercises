@@ -168,3 +168,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 10_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_10/dia_1) (28-10-2020):
 - Primeiros passos no Jest
+
+[Dia 10_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_10/dia_2) (29-10-2020):
+- Jest - Testes Assíncronos
