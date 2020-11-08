@@ -174,3 +174,6 @@ Dia 2_3 (19-08-2020):
 
 [Dia 10_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_10/dia_3) (30-10-2020):
 - Jest - Simulando Comportamentos
+
+[Dia 10_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_10/dia_4) (03-11-2020):
+- Projeto - Jest Assíncrono e Mocking
