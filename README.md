@@ -177,3 +177,10 @@ Dia 2_3 (19-08-2020):
 
 [Dia 10_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_10/dia_4) (03-11-2020):
 - Projeto - Jest Assíncrono e Mocking
+
+## [Bloco 11](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_11)
+
+[Dia 11_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_11/dia_1) (05-11-2020):
+- Introdução Front-End
+- Introdução - React
+- 'Hello, world!' no React
