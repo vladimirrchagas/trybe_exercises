@@ -184,3 +184,6 @@ Dia 2_3 (19-08-2020):
 - Introdução Front-End
 - Introdução - React
 - 'Hello, world!' no React
+
+[Dia 11_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_11/dia_1) (06-11-2020):
+- Componentes React
