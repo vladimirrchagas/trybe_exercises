@@ -185,5 +185,8 @@ Dia 2_3 (19-08-2020):
 - Introdução - React
 - 'Hello, world!' no React
 
-[Dia 11_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_11/dia_1) (06-11-2020):
+[Dia 11_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_11/dia_2) (06-11-2020):
 - Componentes React
+
+[Dia 11_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_11/dia_3) (09-11-2020):
+- Projeto - Movie Card List
