@@ -9,7 +9,7 @@
 
 ⚠ Atenção: Dias sem link não possuem exercícios e consequentemente não possuem pastas no repo.
 
-## [Bloco 1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_1)
+## [Bloco 01](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_1)
 
 Dia 1_1 (10-08-2020):
 - Alinhamentos e apresentações
@@ -29,7 +29,7 @@ Dia 1_2 (11-08-2020):
 [Dia 1_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_1/dia_5) (14-08-2020):
 - Shell Script
 
-## [Bloco 2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_2)
+## [Bloco 02](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_2)
 
 [Dia 2_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_2/dia_1) (17-08-2020):
 - Git & GitHub - O que é e para que serve
@@ -40,7 +40,7 @@ Dia 1_2 (11-08-2020):
 Dia 2_3 (19-08-2020):
 - Internet - Entendendo como ela funciona
 
-## [Bloco 3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_3)
+## [Bloco 03](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_3)
 
 [Dia 3_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_3/dia_1) (20-08-2020):
 - Introdução - HTML & CSS
@@ -58,7 +58,7 @@ Dia 2_3 (19-08-2020):
 [Dia 3_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_3/dia_5) (26-08-2020):
 - Projeto - HTML & CSS
 
-## [Bloco 4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4)
+## [Bloco 04](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4)
 
 [Dia 4_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_1) (27-08-2020):
 - Introdução - JavaScript
@@ -76,7 +76,7 @@ Dia 2_3 (19-08-2020):
 [Dia 4_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_4/dia_5) (02-09-2020):
 - JavaScript - Projeto - Playground Functions
 
-## [Bloco 5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5)
+## [Bloco 05](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5)
 
 [Dia 5_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_1) (04-09-2020):
 - JavaScript - DOM e seletores
@@ -101,7 +101,7 @@ Dia 2_3 (19-08-2020):
 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/projetc-color-guess)
 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_5/dia_7/project-mistery-letter)
 
-## [Bloco 6](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6)
+## [Bloco 06](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6)
 
 [Dia 6_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_1) (17-09-2020):
 - HTML & CSS - Forms
@@ -121,7 +121,7 @@ Dia 2_3 (19-08-2020):
 [Dia 6_6](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_6/dia_6) (24-09-2020):
 - Projeto - Página inicial do Facebook
 
-## [Bloco 7](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7)
+## [Bloco 07](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7)
 
 [Dia 7_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_1) (25-09-2020):
 - JavaScript ES6 - let, const, arrow functions e template literals
@@ -135,7 +135,7 @@ Dia 2_3 (19-08-2020):
 [Dia 7_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_7/dia_4) (30-09-2020):
 - Projeto - JavaScript Testes Unitários
 
-## [Bloco 8](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8)
+## [Bloco 08](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8)
 
 [Dia 8_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_1) (05-10-2020):
 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
@@ -152,7 +152,7 @@ Dia 2_3 (19-08-2020):
 [Dia 8_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_8/dia_5) (09-10-2020):
 - Projeto - Zoo Function
 
-## [Bloco 9](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9)
+## [Bloco 09](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9)
 
 [Dia 9_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_9/dia_1) (21-10-2020):
 - JavaScript Assíncrono e Callbacks
