@@ -190,3 +190,8 @@ Dia 2_3 (19-08-2020):
 
 [Dia 11_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_11/dia_3) (09-11-2020):
 - Projeto - Movie Card List
+
+## [Bloco 12](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12)
+
+[Dia 12_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12/dia_1) (10-11-2020):
+- Componentes com estado e eventos
