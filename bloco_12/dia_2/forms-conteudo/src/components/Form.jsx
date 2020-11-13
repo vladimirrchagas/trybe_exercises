@@ -1,21 +1,32 @@
 import React, { Component } from 'react';
 import '../css/form.css';
+import Email from './input/Email.jsx'
+import Age from './input/Age.jsx'
 
 class Form extends Component {
   constructor() {
     super();
 
     this.getHandler = this.getHandler.bind(this);
+    this.getError = this.getError.bind(this);
 
     this.state ={
       state:'',
-      adress:'',
+      email:'',
       name:'',
+      age: 0,
       testimony:'',
       gender: '',
       futebol: false,
-      volei: false
+      volei: false,
+      formWithError: ''
     }
+  }
+
+  getError = ({ target }) => {
+    const { name } = target;
+    const errorMsg = `Erro no ${name}`;
+    this.setState(() => ({ formWithError: errorMsg}))
   }
 
   getHandler = ({ target }) => {
@@ -33,6 +44,8 @@ class Form extends Component {
         value = target.value;
         break;
     }
+
+    if (target.error !== undefined) this.getError(target);
 
     this.setState(() => ({
       [name]: value,
@@ -53,15 +66,14 @@ class Form extends Component {
           </select>
         </label>
 
-        <label className='labels'>
-          Digite Seu Endereço:
-          <input name='adress' type='text' value={this.state.adress} onChange={this.getHandler}></input>
-        </label>
+        <Email value={this.state.email} callback={this.getHandler} callbackError={this.getError} errorMsg={this.formWithError}/>
 
         <label className='labels'>
-          Digite seu nome Completo:
+          Digite seu Nome Completo:
           <input name='name' type='text' value={this.state.name} onChange={this.getHandler}></input>
         </label>
+
+        <Age value={this.state.age} callback={this.getHandler} callbackError={this.getError} errorMsg={this.formWithError}/>
 
         <label className='labels'>
           Digite um depoimento para a Trybe:
@@ -76,6 +88,8 @@ class Form extends Component {
           <input type='checkbox' name='volei' value='Feminino' onChange={this.getHandler}/>
           <label htmlFor="gender">Feminino</label>
         </label>
+
+        <span></span>
       </form>
     );
   }
