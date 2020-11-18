@@ -152,13 +152,12 @@ describe('#createMenu', () => {
     assert.deepStrictEqual(objetoRetornado.consumption, ["coxinha", "agua", "coxinha"]);
 
     // Teste 8
-    const objetoQualquer1 = {food: {'coxinha' : 3.90, 'agua' : 4.00, drink: {'breja' : 3.00}}};
+    const objetoQualquer1 = {food: {'coxinha' : 3.90 }, drink: {'breja' : 3.00, 'agua' : 4.00}};
 
     const objetoRetornado1 = createMenu(objetoQualquer1);
     objetoRetornado1.order('coxinha');
     objetoRetornado1.order('agua');
     objetoRetornado1.order('coxinha');
-    objetoRetornado1.pay() // Retorno: somaDosPreçosDosPedidos
-
+    assert.strictEqual(objetoRetornado1.pay(objetoRetornado1), 12.98);  // Retorno: somaDosPreçosDosPedidos
   });
 });
