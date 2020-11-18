@@ -195,3 +195,9 @@ Dia 2_3 (19-08-2020):
 
 [Dia 12_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12/dia_1) (10-11-2020):
 - Componentes com estado e eventos
+
+[Dia 12_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12/dia_2) (11-11-2020):
+- Formulários no React
+
+[Dia 12_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12/dia_3) (12-11-2020):
+- Projeto - Movie Cards Library Statefull
