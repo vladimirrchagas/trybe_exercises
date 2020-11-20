@@ -201,3 +201,8 @@ Dia 2_3 (19-08-2020):
 
 [Dia 12_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12/dia_3) (12-11-2020):
 - Projeto - Movie Cards Library Statefull
+
+## [Bloco 13](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_13)
+
+[Dia 13_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_13/dia_1) (17-11-2020):
+- Ciclo de vida de componentes
