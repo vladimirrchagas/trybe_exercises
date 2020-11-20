@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.dog-content , .dog-grid , .new-dog , .dog-name {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.dog-content {
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.dogNameSpan {
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-weight: 700;
+  font-size: 30px;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.image {
+  border: solid 1px black;
+  display: inline-block;
+  height: 600px;
+  position: relative;
+  margin-bottom: 10px;
+  width: 600px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+label {
+  margin-right: 10px;
+}
