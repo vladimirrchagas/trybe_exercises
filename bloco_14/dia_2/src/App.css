@@ -1,0 +1,185 @@
+.App {
+  align-items: center;
+  background-color: rgba(15, 163, 107, 0.100);
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.App-header {
+  align-items: center;
+  background-color: #0fa36b;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  font-weight: 700;
+  height: 30px;
+  justify-content: center;
+  width: 100%;
+}
+
+.categories {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 20px;
+  width: 300px;
+}
+
+.categories>ul {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.categories>ul>li {
+  list-style-type: none;
+  margin-bottom: 6px;
+}
+
+.home {
+  display: flex;
+  width: 100%;
+}
+
+.searchBar>input {
+  width: 500px;
+}
+
+.searchBar-car {
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 90%;
+}
+
+.SearchBar-products {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  width: 100%;
+}
+
+.home {
+  display: flex;
+  width: 100%;
+}
+
+.searchBar>input {
+  width: 500px;
+}
+
+.searchBar-car {
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 90%;
+}
+
+.SearchBar-products {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  width: 100%;
+}
+
+.product {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+  width: 900px;
+}
+
+.product-details, .review {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  width: 100%;
+}
+
+.reviews-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.product-detail-text {
+  align-content: center;
+  display: flex;
+  text-align: left;
+  width: 450px;
+}
+
+.product-detail-text > p {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+}
+
+.product-information {
+  width: 450px;
+}
+
+.review, .reviews-list  {
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  justify-content: baseline;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.review>span, .review>p {
+  align-items: baseline;
+  display: flex;
+  margin: 10px;
+}
+
+.review>h2 {
+  margin-left: 10px;
+}
+
+.review-form {
+  height: 100px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.review-form, .review-header {
+  align-self: baseline;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  width: 200px;
+  margin-right: 10px;
+}
+
+textarea {
+  width: 420px;
+}
+
+button {
+  width: 80px;
+}
+
+img {
+  width: 40%;
+}
+
+.buttons-link {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  width: 90%;
+}
