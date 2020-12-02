@@ -204,5 +204,19 @@ Dia 2_3 (19-08-2020):
 
 ## [Bloco 13](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_13)
 
-[Dia 13_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_13/dia_1) (17-11-2020):
-- Ciclo de vida de componentes
+[Dia 13_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_13/dia_1) (13-11-2020):
+- Ciclo de vida de componentens
+
+[Dia 13_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_13/dia_2) (16-11-2020):
+- React Router
+
+[Dia 13_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_13/dia_3) (17-11-2020):
+- Projeto - Movie Card Library CRUD
+
+## [Bloco 14](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_14)
+
+Dia 14_1 (23-11-2020):
+- Metodologias Ágeis
+
+[Dia 14_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_14/dia_2) (24-11-2020):
+- Projeto - Frontend Online store
