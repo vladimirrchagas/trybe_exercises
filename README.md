@@ -221,7 +221,16 @@ Dia 14_1 (23-11-2020):
 [Dia 14_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_14/dia_2) (24-11-2020):
 - Projeto - Frontend Online store
 
-## [Bloco 14](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_15)
+## [Bloco 15](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_15)
 
 [Dia 15_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_15/dia_1) (01-12-2020):
 - RTL - Primeiros Passos
+
+[Dia 15_2] (02-12-2020): **As soon is possible**
+- RTL - Mocks e Inputs
+
+[Dia 15_3] (03-12-2020): **As soon is possible**
+- RTL - Testando React Router
+
+[Dia 15_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_15/dia_4) (04-12-2020):
+- RTL - Projeto - Testes em React
