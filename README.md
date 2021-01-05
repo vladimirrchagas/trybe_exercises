@@ -234,3 +234,8 @@ Dia 14_1 (23-11-2020):
 
 [Dia 15_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_15/dia_4) (04-12-2020):
 - RTL - Projeto - Testes em React
+
+## [Bloco 16](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16)
+
+[Dia 16_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_1) (08-12-2020):
+- Introdução ao Redux - O estado global da aplicação
