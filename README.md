@@ -239,3 +239,6 @@ Dia 14_1 (23-11-2020):
 
 [Dia 16_1](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_1) (08-12-2020):
 - Introdução ao Redux - O estado global da aplicação
+
+[Dia 16_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_2) (09-12-2020):
+- Usando o Redux no React
