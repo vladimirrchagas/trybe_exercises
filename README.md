@@ -197,7 +197,7 @@ Dia 2_3 (19-08-2020):
 - Componentes com estado e eventos
 
 [Dia 12_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12/dia_2) (11-11-2020):
-- Formulários no React
+- Formulários no React - (to be concluded)
 
 [Dia 12_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_12/dia_3) (12-11-2020):
 - Projeto - Movie Cards Library Statefull
@@ -242,3 +242,6 @@ Dia 14_1 (23-11-2020):
 
 [Dia 16_2](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_2) (09-12-2020):
 - Usando o Redux no React
+
+[Dia 16_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_3) (10-12-2020):
+- Usando o Redux no React - Prática - (to be concluded)

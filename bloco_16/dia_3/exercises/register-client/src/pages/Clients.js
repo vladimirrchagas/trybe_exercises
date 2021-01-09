@@ -8,24 +8,25 @@ import ClientGrid from '../components/ClientGrid';
 
 class Clients extends Component {
   render() {
-    const { clients, logOut } = this.props;
+    const { clients, logOut, user } = this.props;
     return (
       <div className="grid">
+        <div className="links">
+          <Link className="link" to="/" onClick={logOut}>Log Out</Link>
+          <span className="user">{ user }</span>
+        </div>
         {clients.length === 0
         ?
         <div className="grid">
           <h1>Without Clients Registered</h1>
-          <Link className="link link-register" to="clientregister">Register Here Your Client</Link>
         </div>
         :
         <div className="grid">
-          <div className="links">
-            <h1>Client List</h1>
-            <Link className="link" to="/" onClick={logOut}>Log Out</Link>
-          </div>
+          <h1>Client List</h1>
           <ClientGrid clients={clients}/>
         </div>
         }
+        <Link className="link link-register" to="/clientregister">Register Here Your Client</Link>
       </div>
     );
   }
@@ -33,6 +34,8 @@ class Clients extends Component {
 
 const mapStateToProps = state => ({
   clients: state.cliReg.client,
+  login: state.login,
+  user: state.login.user,
 });
 
 const mapDispatchToProps = dispatch => ({

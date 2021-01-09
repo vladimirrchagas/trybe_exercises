@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link, Redirect } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import { connect } from 'react-redux';
 import { signUp } from '../redux/actions';
@@ -12,7 +12,6 @@ class SignUp extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      registerCheck: false,
       message: '',
     }
     this.registerUser = this.registerUser.bind(this);
@@ -30,7 +29,7 @@ class SignUp extends Component {
       if (validUser === undefined ){
         const { signUp } = this.props;
         signUp(email, password);
-        this.setState({ registerCheck: true, message: 'User registered'})
+        this.setState({ message: 'User registered'})
         toast();
       } else {
         this.setState({ message: 'User already exist!' })
@@ -51,7 +50,7 @@ class SignUp extends Component {
         <h3>Please Insert data Below</h3>
       </div>
     );
-    const { registerCheck, message } = this.state;
+    const { message } = this.state;
 
     return (
       <div className="grid">
@@ -60,9 +59,7 @@ class SignUp extends Component {
           <Link className="link" to="/">Home</Link>
           <Link className="link" to="/login">Login</Link>
         </div>
-        {registerCheck === true ? <Redirect to='/login' /> :
         <FormRegisterBox inputs={inputData} buttons={buttons} callback={this.registerUser} boxMessage={boxMessage} />
-        }
       </div>
     );
   }
