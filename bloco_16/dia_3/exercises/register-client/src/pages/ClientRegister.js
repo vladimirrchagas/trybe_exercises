@@ -28,7 +28,8 @@ class ClientRegister extends Component {
 
     const registerClient = ({ name, age, email }) => {
       const regexEmail = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.+-]+\.com$/;
-      if (name !== '' && age !== '' && regexEmail.test(email)) {
+      const regexNumber = /^[0-9]/;
+      if (name !== '' && regexNumber.test(age) && regexEmail.test(email)) {
         const { cliReg } = this.props;
         cliReg(name, age, email);
         this.setState({message: 'Client registered'});

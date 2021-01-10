@@ -22,8 +22,7 @@ class Clients extends Component {
         </div>
         :
         <div className="grid">
-          <h1>Client List</h1>
-          <ClientGrid clients={clients}/>
+          <ClientGrid clients={ clients }/>
         </div>
         }
         <Link className="link link-register" to="/clientregister">Register Here Your Client</Link>
@@ -34,7 +33,6 @@ class Clients extends Component {
 
 const mapStateToProps = state => ({
   clients: state.cliReg.client,
-  login: state.login,
   user: state.login.user,
 });
 

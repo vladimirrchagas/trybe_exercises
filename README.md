@@ -244,4 +244,4 @@ Dia 14_1 (23-11-2020):
 - Usando o Redux no React
 
 [Dia 16_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_3) (10-12-2020):
-- Usando o Redux no React - Prática - (to be concluded)
+- Usando o Redux no React - Prática

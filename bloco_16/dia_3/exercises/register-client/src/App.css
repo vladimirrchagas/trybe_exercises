@@ -25,7 +25,7 @@ img {
   height: 300px;
 }
 
-.App , .grid , .home-grid , .links, .logo-system {
+.App , .grid , .home-grid, .client-grid , .links, .logo-system {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -35,7 +35,7 @@ img {
 }
 
 .button {
-  background-color: rgb(16, 69, 95);
+  background-color: rgb( 16 , 69 , 95 );
   color: white;
   font-size: 14px;
   font-weight: 900;
@@ -44,14 +44,43 @@ img {
 
 .button:hover {
   background-color: white;
-  color: rgb(16, 69, 95);
+  color: rgb( 16 , 69 , 95 );
   font-size: 16px;
   transition: 0.1s;
 }
 
+.client-filter {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.client-grid {
+  justify-content: flex-start;
+  margin-top: 40px;
+  width: 90%;
+}
+
+.client-grid .link {
+  background-color: rgb( 40 , 177 , 245 );
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+.client-row {
+  align-items: center;
+  border: 1px solid rgb( 16 , 69 , 95 );
+  border-radius: 5px;
+  display: flex;
+  height: 40px;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
 .form {
   align-items: center;
-  background-color: rgb(40 , 177 , 245);
+  background-color: rgb( 40 , 177 , 245 );
   border-radius: 10px;
   color: white;
   display: flex;
@@ -86,16 +115,23 @@ img {
   text-decoration: none;
 }
 
-.link-register {
-  background-color: rgb(40 , 177 , 245);
+.link-register , .link-delete {
+  background-color: rgb( 40 , 177 , 245 );
 }
 
-.link:hover {
-  background-color: rgb(16 , 69 , 95);
+.link:hover , .link-delete:hover {
+  background-color: rgb( 16 , 69 , 95 );
+}
+
+.link-delete {
+  color: white;
+  height: 20px;
+  margin: 0;
+  width: 20px;
 }
 
 .links {
-  background-color: rgb(40 , 177 , 245);
+  background-color: rgb( 40 , 177 , 245 );
   position: absolute;
   top: 0;
   flex-direction: row;
