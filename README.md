@@ -3,7 +3,7 @@
 **Soluções dos exercícios realizadas por :metal: Vladimir Chagas :metal:**
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vladimirrchagas/trybe_exercises)
-![GitHub last commit](https://img.shields.io/github/last-commit/vladimirrchagas/trybe_exercises) ![GitHub issues](https://img.shields.io/github/issues/vladimirrchagas/trybe_exercises) 
+![GitHub last commit](https://img.shields.io/github/last-commit/vladimirrchagas/trybe_exercises) ![GitHub issues](https://img.shields.io/github/issues/vladimirrchagas/trybe_exercises)
 ![GitHub language count](https://img.shields.io/github/languages/count/vladimirrchagas/trybe_exercises)
 
 
@@ -245,3 +245,6 @@ Dia 14_1 (23-11-2020):
 
 [Dia 16_3](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_3) (10-12-2020):
 - Usando o Redux no React - Prática
+
+[Dia 16_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_4) (11-12-2020):
+- Usando o Redux no React - Actions Assíncronas
