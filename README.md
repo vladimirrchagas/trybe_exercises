@@ -251,3 +251,6 @@ Dia 14_1 (23-11-2020):
 
 [Dia 16_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_5) (04-01-2021):
 - Testes em React-Redux
+
+[Dia 16_6](https://github.com/tryber/sd-07-project-trybewallet/tree/vladimirrchagas-project-trybewallet) (05-01-2021):
+- Projeto - Trybe Wallet
