@@ -254,3 +254,8 @@ Dia 14_1 (23-11-2020):
 
 [Dia 16_6](https://github.com/tryber/sd-07-project-trybewallet/tree/vladimirrchagas-project-trybewallet) (05-01-2021):
 - Projeto - Trybe Wallet
+
+## Bloco 17
+
+[Dia 17_1](https://github.com/tryber/sd-07-project-trivia-react-redux/tree/main-group-10) (11-01-2021):
+- Projeto - Trivia Game
