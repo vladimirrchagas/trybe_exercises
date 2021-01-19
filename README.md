@@ -259,3 +259,8 @@ Dia 14_1 (23-11-2020):
 
 [Dia 17_1](https://github.com/tryber/sd-07-project-trivia-react-redux/tree/main-group-10) (11-01-2021):
 - Projeto - Trivia Game
+
+## Bloco 18
+
+[Dia 18_1](https://github.com/vladimirrchagas/exercise-contextAPI-refactoring) (18-01-2021):
+- Context API do React
