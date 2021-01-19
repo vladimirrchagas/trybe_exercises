@@ -248,3 +248,6 @@ Dia 14_1 (23-11-2020):
 
 [Dia 16_4](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_4) (11-12-2020):
 - Usando o Redux no React - Actions Assíncronas
+
+[Dia 16_5](https://github.com/vladimirrchagas/trybe_exercises/tree/master/bloco_16/dia_5) (04-01-2021):
+- Testes em React-Redux
