@@ -264,3 +264,6 @@ Dia 14_1 (23-11-2020):
 
 [Dia 18_1](https://github.com/vladimirrchagas/exercise-contextAPI-refactoring) (18-01-2021):
 - Context API do React
+
+[Dia 18_2](https://github.com/vladimirrchagas/exercise-react-hooks-refactoring) (19-01-2021):
+- React Hooks - useState e useContext
